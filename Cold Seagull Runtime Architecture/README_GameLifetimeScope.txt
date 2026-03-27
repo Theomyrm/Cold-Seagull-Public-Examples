@@ -1,0 +1,1 @@
+I wanted to showcase the full DI structure of the game, so it's scope and structure is visible. 
